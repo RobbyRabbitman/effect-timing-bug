@@ -37,8 +37,8 @@ export class Example {
       </li>
       <li>
         Is there a different timing in the first execution of the effect
-        depending? Is there a semantic difference in property binding vs passing
-        a literal value in that aspect?
+        depending on how a value is passed? Is there a semantic difference in
+        property binding vs passing a literal value in that aspect?
       </li>
       <li>When are effects executed for the first time in a component?</li>
     </ul>
